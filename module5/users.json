@@ -1,0 +1,44 @@
+{
+    "john@doe.com": {
+        "username": "jhon",
+        "email": "john@doe.com",
+        "password": "12345",
+        "role": ""
+    },
+    "john2@doe.com": {
+        "username": "jhon1",
+        "email": "john2@doe.com",
+        "password": "12345",
+        "role": ""
+    },
+    "john111@doe.com": {
+        "username": "jhon12",
+        "email": "john111@doe.com",
+        "password": "12345",
+        "role": "admin"
+    },
+    "1john@doe.com": {
+        "username": "jhon23",
+        "email": "1john@doe.com",
+        "password": "12345",
+        "role": "administrator"
+    },
+    "john112@doe.com": {
+        "username": "arpd",
+        "email": "john112@doe.com",
+        "password": "12345",
+        "role": "administrator"
+    },
+    "11john@doe.com": {
+        "username": "jhon1234",
+        "email": "11john@doe.com",
+        "password": "12345",
+        "role": "administrator"
+    },
+    "122john@doe.com": {
+        "username": "jhonQWE",
+        "email": "122john@doe.com",
+        "password": "12345",
+        "role": ""
+    }
+}
